@@ -1,0 +1,65 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Deluxe Sea View Room",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+    },
+    {
+      "id": 2,
+      "name": "Luxury Poolside Room",
+      "price": 4200,
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+    },
+    {
+      "id": 3,
+      "name": "Premium King Suite",
+      "price": 5500,
+      "image":  "https://images.unsplash.com/photo-1540518614846-7eded433c457"
+    },
+    {
+      "id": 4,
+      "name": "Executive Business Room",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+    },
+    {
+      "id": 5,
+      "name": "Family Comfort Room",
+      "price": 4000,
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427"
+    },
+    {
+      "id": 6,
+      "name": "Honeymoon Special Suite",
+      "price": 6000,
+      "image": "https://images.unsplash.com/photo-1540518614846-7eded433c457"
+    },
+    {
+      "id": 7,
+      "name": "Garden View Room",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+    },
+    {
+      "id": 8,
+      "name": "Classic Double Bed Room",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39"
+    },
+    {
+      "id": 9,
+      "name": "Royal Heritage Suite",
+      "price": 7000,
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 10,
+      "name": "Economy Single Room",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+    }
+  ],
+  "bookings": []
+}
